@@ -1,5 +1,8 @@
 # model
 
+nn.module로 되어있는건 나오는데, nn.functional은 안나옴
+
+
 
 ```
 def get_unique_modules(model):
